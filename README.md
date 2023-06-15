@@ -8,7 +8,7 @@ Hi, I'm Lauren
 
 I'm an [analytical chemist](https://www.acs.org/careers/chemical-sciences/areas/analytical-chemistry.html), with a background in 
 
-- [Data Science](https://en.wikipedia.org/wiki/Data_science) (M.S.)
+- Data Science (M.S.)
 - [Physics](https://www.iop.org/explore-physics) (B.S.)
 - [Geology](https://www.nps.gov/subjects/geology/geology-concepts.htm) (minor)
 
